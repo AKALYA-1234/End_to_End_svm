@@ -110,5 +110,5 @@ data loading → preprocessing → model training → evaluation → deployment 
 
 Screenshot for this frontend:
 
-<img width="960" height="653" alt="Screenshot 2025-08-26 062343" src="https://github.com/user-attachments/assets/6f2b7e8a-7c72-4bf5-be2f-264c37e745fd" />
+
 
